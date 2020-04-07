@@ -1,0 +1,15 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+video {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.sound-wave {
+  width: 100%;
+}
