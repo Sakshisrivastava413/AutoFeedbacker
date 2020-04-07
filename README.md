@@ -11,5 +11,3 @@ In frontend folder,
 `npm install`
 
 `npm start`
-
-# Change
